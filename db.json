@@ -1,0 +1,25 @@
+{
+  "pensamentos": [
+    {
+      "id": "9f8b",
+      "conteudo": "Seja a mudança que você quer ver no mundo.",
+      "autoria": "Mahatma Gandhi",
+      "modelo": "modelo1",
+      "favorito": true
+    },
+    {
+      "id": "23b9",
+      "conteudo": "A mente que se abre a uma nova ideia jamais voltará ao seu tamanho original.",
+      "autoria": "Albert Einstein",
+      "modelo": "modelo2",
+      "favorito": false
+    },
+    {
+      "id": "e43e",
+      "conteudo": "Foi sem querer querendo.",
+      "autoria": "Chaves",
+      "modelo": "modelo1",
+      "favorito": false
+    }
+  ]
+}
