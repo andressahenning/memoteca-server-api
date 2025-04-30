@@ -7,7 +7,6 @@
     "dependencies": {
         "json-server": "^0.17.4"
     },
-    "main": "index.js",
     "keywords": [],
     "author": "",
     "license": "ISC",
